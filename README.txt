@@ -4,7 +4,8 @@ Author 1, Author 2
 email 1, email 2
 --------------------------------------------------------------------------------
 
-This project is used to build and conduct analysis on...
+This project is used to build and conduct analysis on some data using some 
+method.
 
 The project structure is as follows.
 
